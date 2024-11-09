@@ -2,7 +2,15 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Aa]ssets/
+/[Aa]ssets/Art/
+/[Aa]ssets/Audio/
+/[Aa]ssets/XR/
+/[Aa]ssets/XRI/
+/[Aa]ssets/Shaders/
+/[Aa]ssets/TutorialInfo/
+/[Aa]ssets/ProceduralTerrainPainter/
+
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
